@@ -2,7 +2,7 @@
 
 1. Data analysis:
 - Loan amount and income distribution:  
-![Income Distribution](img\income_distribution.png "Income Distribution")     
+![Income Distribution](/img/income_distribution.png "Income Distribution")     
 ![Loan Distribution](img\loan_distribution.png "Loan Distribution")     
 - The categorical variable analysis to look at the chances of getting a loan based a valid credit history. 
 (Useful to find an important feature or check the logistic regression in the initial step)

@@ -16,6 +16,7 @@
 Instead of eliminating the extreme data, using the log transformation to reduce the significance of the extreme data.
 
 ![Log Transformation](/img/log_transformation.png "Log Transformation")
+
 (The result of log transformation for the loan amount distribution)
 
 3. Build a classification model and assessing performance:

@@ -1,5 +1,8 @@
 **Summary of the Loan Prediction project**
 
+This project uses a provided dataset and machine learning to build a model that predicts loan approval outcomes based on candidate profiles
+
+
 1. Data analysis:
 - Loan amount and income distribution:  
 ![Income Distribution](/img/income_distribution.png "Income Distribution")     
